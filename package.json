@@ -1,0 +1,20 @@
+{
+  "name": "docker-node",
+  "version": "1.0.0",
+  "description": "This Repository is only for practice, applying CI/CD with GithubActions and Docker - Technologies:   - Docker   - Git   - GitHhub Actions",
+  "main": "main.js",
+  "scripts": {
+    "start":"node main",
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "jest-cli": "^26.4.2"
+  }
+}
