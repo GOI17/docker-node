@@ -1,6 +1,7 @@
-# docker-hello-world
-This Repository is only for practice, applying CI/CD with GithubActions and Docker
+# docker-node
+This Repository is only for practice, applying Jest Suite with Git Hooks and NodeJS
 - Technologies:
-  - Docker
+  - Jest
+  - Node
   - Git
-  - GitHhub Actions
+  - Git Hooks
